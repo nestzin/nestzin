@@ -29,8 +29,6 @@
   <img src="https://api.lanyard.rest/v1/users/753271371781374074.svg?theme=dark&bg=010409&borderRadius=5px" alt="Discord Status" />
 </a>
 
-<img height="150px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=010409&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=010409&hide_border=true)" />
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" />
