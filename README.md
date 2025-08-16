@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>Nest</h1>
-<h3>Desenvolvedor focado em JavaScript, Node.js e Python.</h3>
-<p>Criando soluções inovadoras e explorando o mundo da tecnologia.</p>
+<h3Frontend & Backend Developer</h3>
+<p>Creating everthing with lines.</p>
 
 <hr/>
 
