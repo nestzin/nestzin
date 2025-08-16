@@ -15,8 +15,10 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   </p>
+  
+  <hr/>
 
-    <h2>Database</h2>
+    <h1>Database</h1>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -40,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nestzin/nestzin/output/snake.svg" alt="Snake animation" />
+  <img src="https://i.imgur.com/6T8Tpve.jpeg" alt="Animação de Samurai" width="XXX" height="YYY" />
 </div>
