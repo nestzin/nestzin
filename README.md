@@ -33,9 +33,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_DO_GITHUB&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_DO_GITHUB&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nestzin&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&rank_icon=github" />
 
 </div>
 
