@@ -36,9 +36,6 @@
 
 <h2>Minhas Estatísticas e Conexões</h2>
 <p>
-<a href="https://discord.com/users/753271371781374074">
-  <img src="https://api.lanyard.rest/v1/users/753271371781374074.svg?theme=dark&bg=010409&borderRadius=5px" alt="Discord Status" />
-</a>
 
 <div align="center">
 
