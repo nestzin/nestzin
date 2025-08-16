@@ -41,5 +41,5 @@
 
 </div>
 <div align="center">
-  <img src="https://media.tenor.com/5bRpcqahFjAAAAAi/sword-attack.gif" alt="Animação de Samurai" width="XXX" height="YYY" />
+  <img src="https://media.tenor.com/kqB5FXgtdDsAAAAj/karma-sword-thief.gif?raw=true" alt="Animação de Samurai" width="XXX" height="YYY" />
 </div>
