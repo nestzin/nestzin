@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Nest</h1>
-<h3Frontend & Backend Developer</h3>
+<h3Developer</h3>
 <p>Creating everthing with lines.</p>
 
 <hr/>
