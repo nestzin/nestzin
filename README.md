@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nestzin/nestzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Nest</h1>
+  <h3>Desenvolvedor focado em JavaScript, Node.js e Python.</h3>
+  <p>Criando soluções inovadoras e explorando o mundo da tecnologia.</p>
 
-Here are some ideas to get you started:
+  <hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Tecnologias e Ferramentas</h2>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  </p>
+
+  <hr/>
+
+  <h2>Minhas Estatísticas e Conexões</h2>
+  <p>
+    <a href="https://discord.com/users/753271371781374074">
+      <img src="https://api.lanyard.rest/v1/users/753271371781374074.svg?theme=dark&bg=010409&borderRadius=5px" />
+    </a>
+    
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=010409&hide_border=true" />
+  </p>
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nestzin/nestzin/output/snake.svg" alt="Snake animation" />
+</div>
