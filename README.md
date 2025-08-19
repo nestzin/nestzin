@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2>Minhas Estatísticas e Conexões</h2>
+<h2>Stats & Connections</h2>
 <p>
 
 <div align="center">
