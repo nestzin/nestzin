@@ -37,6 +37,8 @@
 <h2>Stats & Connections</h2>
 <p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/753271371781374074)](https://discord.com/users/753271371781374074)
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" />
