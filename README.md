@@ -8,28 +8,28 @@
 
 <hr/>
 
-<h2>// Kernel & Syntax</h2>
+<h2> Kernel & Syntax</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css&theme=dark" alt="Languages" />
   </a>
 </p>
 
-<h2>// Architecture & UI</h2>
+<h2> Architecture & UI</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,threejs,tauri&theme=dark" alt="Frameworks" />
   </a>
 </p>
 
-<h2>// Data & Storage</h2>
+<h2> Data & Storage</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase&theme=dark" alt="Databases" />
   </a>
 </p>
 
-<h2>// Environment & Tools</h2>
+<h2> Environment & Tools</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,docker,figma&theme=dark" alt="Tools" />
@@ -38,13 +38,7 @@
 
 <hr/>
 
-<h2>// System_Diagnostics</h2>
-
-<p>
-  <a href="https://discord.com/users/753271371781374074">
-    <img src="https://lanyard.cnrad.dev/api/753271371781374074?bg=0D1117&idleMessage=Offline..." alt="Discord Presence" />
-  </a>
-</p>
+<h2> System_Diagnostics</h2>
 
 <br>
 
