@@ -57,18 +57,3 @@
 </p>
 
 </div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nestzin&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&rank_icon=github" />
-
-</div>
-
-</p>
-
-</div>
-<div align="center">
-  <img src="https://media.tenor.com/kqB5FXgtdDsAAAAj/karma-sword-thief.gif?raw=true" alt="Animação de Samurai" width="XXX" height="YYY" />
-</div>
