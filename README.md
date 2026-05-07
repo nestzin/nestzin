@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>NESTZ</h1>
-<h3>FullStack Developer</h3>
+<h3>Full Stack Developer</h3>
 <p><i>Creating everything with lines. High-performance architectures in sync.</i></p>
 
 <img src="https://media.tenor.com/kqB5FXgtdDsAAAAj/karma-sword-thief.gif?raw=true" alt="Samurai Animation" width="200" style="border-radius: 10px; margin-top: 15px; margin-bottom: 20px;" />
