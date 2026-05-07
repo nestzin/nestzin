@@ -35,15 +35,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,docker,figma,obsidian&theme=dark" alt="Tools" />
   </a>
 </p>
-
-<hr/>
-
-<h2> System_Diagnostics</h2>
-
-<br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestzin&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=ffffff&text_color=9e9e9e" alt="Top Langs" />
 </p>
 
 <p>
