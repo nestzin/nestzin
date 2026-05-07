@@ -37,8 +37,4 @@
 </p>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nestzin&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-</p>
-
 </div>
