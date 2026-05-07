@@ -18,7 +18,7 @@
 <h2> Architecture & UI</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,threejs,tauri&theme=dark" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=lua,nextjs,react,tailwind,nodejs,threejs,tauri&theme=dark" alt="Frameworks" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 <h2> Environment & Tools</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,docker,figma&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,docker,figma,obsidian&theme=dark" alt="Tools" />
   </a>
 </p>
 
